@@ -2,7 +2,11 @@
     <string name="app_name">My First Project</string>
     <string name="button_text">Greetings</string>
     <string name="button2_text">Greet Meer</string>
-    <string name="button_move_text">Move to new Activity</string>
+    <string name="button_move_text">Login</string>
     <string name="button_back_text">Go back</string>
     <string name="text_view_hello">Hello World!</string>
+    <string name="password_field">Password</string>
+    <string name="login_field">Login</string>
+    <string name="your_password">Your Password</string>
+    <string name="your_login">Your Login</string>
 </resources>
