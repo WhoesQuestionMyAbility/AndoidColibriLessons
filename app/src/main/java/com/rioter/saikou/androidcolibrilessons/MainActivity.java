@@ -1,12 +1,15 @@
 package com.rioter.saikou.androidcolibrilessons;
 
+import android.content.Context;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.Gravity;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -49,6 +52,16 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    public void onShow(View view){
 
+        //Toast.makeText(getApplicationContext(),"HICE!",Toast.LENGTH_SHORT).show();
+        Context context = getApplicationContext();
+        CharSequence text = "HICE!";
+        int duration = Toast.LENGTH_SHORT;
+
+        Toast toast = Toast.makeText(context, text, duration);
+        toast.setGravity(Gravity.CENTER, -150,100);
+        toast.show();
+    }
 
 }

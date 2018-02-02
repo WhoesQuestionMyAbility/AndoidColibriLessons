@@ -9,4 +9,5 @@
     <string name="login_field">Login</string>
     <string name="your_password">Your Password</string>
     <string name="your_login">Your Login</string>
+    <string name="toast_greeting">HICE</string>
 </resources>
