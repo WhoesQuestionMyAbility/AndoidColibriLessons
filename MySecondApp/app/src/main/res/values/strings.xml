@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Second App</string>
+    <string name="txt_btn_language">Выбрать язык</string>
+    <string name="txt_btn_present">Представиться</string>
+    <string name="hint_your_name">Ваше имя</string>
+    <string name="txt_btn_ru">Русский</string>
+    <string name="txt_btn_en">English</string>
+    <string name="txt_btn_ua">Украинский</string>
+    <string name="greetings">Привет! Как вас зовут?</string>
+    <string name="your_lang_none">Ваш язык: Неизвестно</string>
+    <string name="txt_btn_background">Выбрать цвет фона</string>
+    <string name="background_white">Белый</string>
+    <string name="background_yellow">Желтый</string>
+    <string name="background_green">Зеленый</string>
+    <string name="txt_btn_choose_bg_color">Выбрать цвет</string>
+    <string name="txt_btn_cancel">Сброс</string>
+</resources>
