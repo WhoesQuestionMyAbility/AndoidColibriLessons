@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntentFilter</string>
+    <string name="explicit_call">Явный вызов</string>
+    <string name="yamal_night">YAAAAAAAMAAAAL NIIIIIGHT!!</string>
+    <string name="nullish" />
+    <string name="implicit_call">Неявный вызов</string>
+    <string name="open_contacts">Открыть Контакты</string>
+</resources>
